@@ -20,3 +20,5 @@ Adoro aprender coisas novas e estou sempre estudando e fazendo algum curso por a
 
 
 [![MariaEduarda907](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda907&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![card](https://github-readme-stats.vercel.app/api?username=MariaEduarda907&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
