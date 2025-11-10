@@ -5,6 +5,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 💻Desenvolvedora Front-end cursando Análise e Desenvolvimento de Sistemas
+
 📚Adoro estudar e aprender coisas novas
 
 ## 🔗Conecte-se comigo
