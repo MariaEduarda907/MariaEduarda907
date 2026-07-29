@@ -21,4 +21,8 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MariaEduarda907&langs_count=4&theme=radical)
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=MariaEduarda907&theme=radical)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaEduarda907/MariaEduarda907/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaEduarda907/MariaEduarda907/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MariaEduarda907/MariaEduarda907/output/github-contribution-grid-snake.svg">
+</picture>
